@@ -1,2 +1,2 @@
 def tweet():
-    return "Here be dragons!"
+    return "Insert something funny here!"
