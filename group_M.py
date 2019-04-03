@@ -1,2 +1,2 @@
 def tweet():
-    return "please replace this boring sentence with something more fun"
+    return "This must be more fun"
